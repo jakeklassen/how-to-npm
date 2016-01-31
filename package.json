@@ -1,0 +1,14 @@
+{
+  "name": "@jakeklassen/fcc-how-to-node",
+  "version": "1.0.0",
+  "description": "How to node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jake Klassen",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
