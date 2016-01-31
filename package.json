@@ -1,6 +1,6 @@
 {
   "name": "@jakeklassen/fcc-how-to-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How to node example",
   "main": "index.js",
   "scripts": {
